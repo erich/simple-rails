@@ -33,6 +33,7 @@ gem 'spring',        group: :development
 
 gem 'execjs'
 gem 'therubyracer'
+gem 'mysql'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
